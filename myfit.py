@@ -5,5 +5,6 @@ for i in range(5):
     print("hello, world!")
     print("hello, world!")
     print("hello123, world!")
+    print("hellogala, world!")
     print(i + 1)
     print(i + 1)
