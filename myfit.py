@@ -12,3 +12,6 @@ for i in range(5):
     print(i + 1)
     print("my latest")
     print("my latest123")
+    print("~~~~~~~~~~~~~~~~~~~~~")
+    print("~~~~~~~~~~~~~~~~~~~~~")
+    print("~~~~~~~~~~~~~~~~~~~~~")
