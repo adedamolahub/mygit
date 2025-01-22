@@ -7,5 +7,6 @@ for i in range(5):
     print("hello123, world!")
     print("hellogala, world!")
     print("hello234567888, world!")
+    print("#####")
     print(i + 1)
     print(i + 1)
