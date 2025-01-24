@@ -17,3 +17,6 @@ for i in range(5):
     print("~~~~~~~~~~~~~~~~~~~~~")
     print("~~~~~~~~~~~~~~~~~~~~~")
     print("sempreinter")
+    print("sempreinter1")
+    print("sempreinter2")
+    print("sempreinter3")
